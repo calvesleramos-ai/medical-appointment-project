@@ -33,3 +33,17 @@ Considerando uma equipe formada por quatro desenvolvedores e um tester, novas de
 ### Monitoramento
 
 Os riscos serão revisados ao final de cada Sprint Review e durante o Sprint Planning seguinte.
+Risco
+
+Instabilidade da API
+
+Impacto
+
+Alto
+
+Fatores condicionantes
+
+- documentação incompleta
+- mudanças frequentes
+- dependência de terceirosRisco
+
